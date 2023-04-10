@@ -1,9 +1,16 @@
-### Hi there, I'm Charles! 👋
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center">An aspiring college student developer</h3>
+<img align="right" alt="coding" width="400" src="https://lastfm.freetls.fastly.net/i/u/500x500/8a9055c30e4de46ee163d1ad5504b4cb.gif">
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bau04&show_icons=true&theme=radical" />
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bau04&layout=compact" />
+- 🌱 I’m currently learning **Java, Python**
 
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+- 📫 How to reach me **charlesbautista004@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/d.bauuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.bauuu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
